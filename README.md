@@ -1,2 +1,2 @@
-# Shadowrocket Configuration Russia
+# 🚀 Shadowrocket Configuration Russia
 Readme information coming soon...
