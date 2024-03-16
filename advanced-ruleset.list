@@ -1,7 +1,7 @@
 # NAME: Advanced ruleset
 # AUTHOR: Ilyas Yakubov
 # REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
-# UPDATE: 2024-03-15 00:00:02
+# UPDATE: 2024-03-16 00:00:02
 IP-CIDR,1.179.201.0/24
 IP-CIDR,2.2.2.0/24
 IP-CIDR,2.16.16.0/24
