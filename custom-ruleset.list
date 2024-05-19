@@ -1,7 +1,7 @@
 # NAME: Custom ruleset
 # AUTHOR: Ilyas Yakubov
 # REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
-# UPDATE: 2024-05-09 21:50:00
+# UPDATE: 2024-05-19 10:50:00
 DOMAIN-SUFFIX,twitter.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,twimg.com
@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,rutor.is
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,intercomcdn.com
