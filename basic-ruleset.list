@@ -1,7 +1,7 @@
 # NAME: Basic ruleset
 # AUTHOR: Ilyas Yakubov
 # REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
-# UPDATE: 2024-08-02 13:25:00
+# UPDATE: 2024-09-08 10:10:00
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,canva.com
@@ -62,3 +62,4 @@ DOMAIN-SUFFIX,youtubei.googleapis.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,whatismyipaddress.com
