@@ -1,65 +1,80 @@
 # NAME: Basic ruleset
 # AUTHOR: Ilyas Yakubov
 # REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
-# UPDATE: 2024-09-08 10:10:00
-DOMAIN-SUFFIX,aol.com
-DOMAIN-SUFFIX,browserleaks.com
-DOMAIN-SUFFIX,canva.com
-DOMAIN-SUFFIX,dyson.com
-DOMAIN-SUFFIX,gravatar.com
-DOMAIN-SUFFIX,cdninstagram.com,force-remote-dns
-DOMAIN-SUFFIX,cdnfbsbx.com,force-remote-dns
-DOMAIN-SUFFIX,igcdn.com
-DOMAIN-SUFFIX,instagram.com
+# UPDATE: 2024-09-19 09:49:00
+
+# Facebook
 DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,l.facebook.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,cdnfbsbx.com,force-remote-dns
 DOMAIN-SUFFIX,connect.facebook.net
 DOMAIN-SUFFIX,graph.facebook.com
 DOMAIN-SUFFIX,gateway.facebook.com
 DOMAIN-SUFFIX,edge-chat.facebook.com
-DOMAIN-SUFFIX,l.facebook.com
-DOMAIN-SUFFIX,fb.com
-DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,f.vision
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,cdnfacebook.com
 DOMAIN-SUFFIX,fburl.com
-DOMAIN-SUFFIX,kahoot.com
-DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,lnkd.in
-DOMAIN-SUFFIX,medium.com
-DOMAIN-SUFFIX,meta.com
-DOMAIN-SUFFIX,netflix.com
-DOMAIN-SUFFIX,nnmclub.to
-DOMAIN-SUFFIX,netpeaksoftware.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,openwrt.org
-DOMAIN-SUFFIX,proton.me
-DOMAIN-SUFFIX,quora.com
-DOMAIN-SUFFIX,setapp.com
-DOMAIN-SUFFIX,skladchina.biz
-DOMAIN-SUFFIX,slideshare.net
-DOMAIN-SUFFIX,soundcloud.com
-DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,tumblr.com
-DOMAIN-SUFFIX,twimg.com
-DOMAIN-SUFFIX,twitter.co
+
+# Instagram
+DOMAIN-KEYWORD,instagram
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com,force-remote-dns
+DOMAIN-SUFFIX,igcdn.com
+
+# Twitter
 DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twitter.co
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,twitter.org
+DOMAIN-SUFFIX,twitter.co.uk
+DOMAIN-SUFFIX,twitter.tj
+DOMAIN-SUFFIX,twitterinc.com
+DOMAIN-SUFFIX,twitter.eus
+DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitthat.com
 DOMAIN-SUFFIX,twtkr.com
 DOMAIN-SUFFIX,twttr.com
-DOMAIN-SUFFIX,vimeo.com
-DOMAIN-SUFFIX,vimeocdn.com
-DOMAIN-KEYWORD,instagram
+
+# YouTube
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,youtube.googleapis.com
-DOMAIN-SUFFIX,youtubei.googleapis.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,ggpht.com
+
+# Torrent trackers
+DOMAIN-SUFFIX,nnmclub.to
+DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,rutor.is
+
+# OpenAI
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net
+
+# Vimeo
+DOMAIN-SUFFIX,vimeo.com
+DOMAIN-SUFFIX,vimeocdn.com
+
+# Other rules
+DOMAIN-SUFFIX,tumblr.com
+DOMAIN-SUFFIX,gravatar.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,4pda.ru
+
+# Test rule
 DOMAIN-SUFFIX,whatismyipaddress.com
