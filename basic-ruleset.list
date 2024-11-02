@@ -1,7 +1,7 @@
 # NAME: Basic ruleset
 # AUTHOR: Ilyas Yakubov
 # REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
-# UPDATE: 2024-10-25 21:27:00
+# UPDATE: 2024-11-02 15:18:00
 
 # Facebook
 DOMAIN-SUFFIX,facebook.com
@@ -91,6 +91,18 @@ DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-KEYWORD,musical.ly
 DOMAIN-KEYWORD,tiktok
 USER-AGENT,TikTok*
+
+# Linkedin
+bizographics.com
+l-0005.dc-msedge.net
+l-0005.l-msedge.net
+licdn.com
+linkedin.at
+linkedin.com
+lnkd.in
+e122475.dscg.akamaiedge.net
+licdn.cn.cdn20.com
+linkedin.sc.omtrdc.net
 
 # Other rules
 DOMAIN-SUFFIX,tumblr.com
