@@ -1,7 +1,7 @@
 # NAME: Custom ruleset
 # AUTHOR: Ilyas Yakubov
 # REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
-# UPDATE: 2024-12-25 15:36:00
+# UPDATE: 2024-12-25 21:43:00
 
 # Other rules
 DOMAIN-SUFFIX,soundcloud.com
@@ -15,5 +15,4 @@ DOMAIN-SUFFIX,serif.com
 DOMAIN-SUFFIX,paddle.com
 
 # Test rule
-DOMAIN-SUFFIX,whatismyip.com
 DOMAIN-SUFFIX,myip.ru
