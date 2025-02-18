@@ -1,12 +1,11 @@
 # NAME: Custom ruleset
 # AUTHOR: Ilyas Yakubov
 # REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
-# UPDATE: 2025-02-18 17:23:00
+# UPDATE: 2025-02-18 17:29:00
 
 # Other rules
 DOMAIN-SUFFIX,4pda.ru
 DOMAIN-SUFFIX,ek.ua
-DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,hetzner.com
 DOMAIN-SUFFIX,kino.pub
@@ -14,9 +13,12 @@ DOMAIN-SUFFIX,meduza.io
 DOMAIN-SUFFIX,paddle.com
 DOMAIN-SUFFIX,redotpay.com
 DOMAIN-SUFFIX,serif.com
-DOMAIN-SUFFIX,soundcloud.com
-DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,wp.com
+
+# Torrent trackers
+DOMAIN-SUFFIX,nnmclub.to
+DOMAIN-SUFFIX,rutracker.org
+DOMAIN-SUFFIX,rutor.is
 
 # Test rule
 DOMAIN-SUFFIX,myip.ru
