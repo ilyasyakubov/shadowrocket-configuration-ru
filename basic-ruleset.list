@@ -1,7 +1,7 @@
 # NAME: Basic ruleset
 # AUTHOR: Ilyas Yakubov
 # REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
-# UPDATE: 2024-11-02 15:18:00
+# UPDATE: 2025-02-18 14:37:00
 
 # Facebook
 DOMAIN-SUFFIX,facebook.com
@@ -103,6 +103,14 @@ DOMAIN-SUFFIX,lnkd.in
 DOMAIN-SUFFIX,e122475.dscg.akamaiedge.net
 DOMAIN-SUFFIX,licdn.cn.cdn20.com
 DOMAIN-SUFFIX,linkedin.sc.omtrdc.net
+
+# Notion
+DOMAIN,http-inputs-notion.splunkcloud.com
+DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion.com
+DOMAIN-SUFFIX,notion.new
+DOMAIN-SUFFIX,notion.site
+DOMAIN-SUFFIX,notion.so
 
 # Other rules
 DOMAIN-SUFFIX,tumblr.com
