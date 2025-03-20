@@ -1,12 +1,13 @@
 # NAME: Custom ruleset
 # AUTHOR: Ilyas Yakubov
 # REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
-# UPDATE: 2025-02-18 17:29:00
+# UPDATE: 2025-03-20 22:32:00
 
 # Other rules
 DOMAIN-SUFFIX,4pda.ru
 DOMAIN-SUFFIX,ek.ua
 DOMAIN-SUFFIX,gravatar.com
+DOMAIN-SUFFIX,groq.com
 DOMAIN-SUFFIX,hetzner.com
 DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,meduza.io
