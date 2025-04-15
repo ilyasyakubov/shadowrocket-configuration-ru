@@ -1,7 +1,7 @@
 # NAME: Custom ruleset
 # AUTHOR: Ilyas Yakubov
 # REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
-# UPDATE: 2025-04-10 10:39:00
+# UPDATE: 2025-04-15 15:56:00
 
 # Hetzner
 DOMAIN-SUFFIX,first-ns.de
@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,4pda.ru
 DOMAIN-SUFFIX,blenderkit.com
 DOMAIN-SUFFIX,ek.ua
 DOMAIN-SUFFIX,fcp.cafe
+DOMAIN-SUFFIX,giphy.com
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,kmail-lists.com
