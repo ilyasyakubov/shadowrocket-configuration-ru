@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,4pda.ru
 DOMAIN-SUFFIX,blenderkit.com
 DOMAIN-SUFFIX,ek.ua
+DOMAIN-SUFFIX,emojis.com
 DOMAIN-SUFFIX,fcp.cafe
 DOMAIN-SUFFIX,giphy.com
 DOMAIN-SUFFIX,gravatar.com
@@ -37,7 +38,6 @@ DOMAIN-SUFFIX,serif.com
 DOMAIN-SUFFIX,tuxera.com
 DOMAIN-SUFFIX,upwork.com
 DOMAIN-SUFFIX,wp.com
-DOMAIN-SUFFIX,emojis.com
 
 # Redotpay
 DOMAIN-SUFFIX,redotpay.com
