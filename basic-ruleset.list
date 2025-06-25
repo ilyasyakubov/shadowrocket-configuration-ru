@@ -1,7 +1,7 @@
 # NAME: Basic ruleset
 # AUTHOR: Ilyas Yakubov
 # REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
-# UPDATE: 2025-04-15 16:56:00
+# UPDATE: 2025-06-25 12:26:00
 
 # Discord
 DOMAIN-SUFFIX,dis.gd
@@ -49,6 +49,21 @@ DOMAIN-SUFFIX,f.vision
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,cdnfacebook.com
 DOMAIN-SUFFIX,fburl.com
+
+# Gemini
+DOMAIN,ai.google.dev
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,makersuite.google.com
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,apis.google.com
+DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,developerprofiles
+DOMAIN-KEYWORD,generativelanguage
 
 # Instagram
 DOMAIN-KEYWORD,instagram
