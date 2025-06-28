@@ -1,1 +1,35 @@
 
+# NAME: Outside ruleset
+# AUTHOR: Ilyas Yakubov
+# REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
+# UPDATE: 2025-06-28 20:04:00
+
+# Grok
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
+
+# Other rules
+DOMAIN-SUFFIX,blenderkit.com
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,ek.ua
+DOMAIN-SUFFIX,emojis.com
+DOMAIN-SUFFIX,fcp.cafe
+DOMAIN-SUFFIX,kmail-lists.com
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,paddle.com
+DOMAIN-SUFFIX,rive.app
+DOMAIN-SUFFIX,serif.com
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,tuxera.com
+DOMAIN-SUFFIX,upwork.com
+
+# Redotpay
+DOMAIN-SUFFIX,redotpay.com
+DOMAIN-SUFFIX,redotpay.zendesk.com
+DOMAIN-SUFFIX,pod-15-sunco-ws.zendesk.com
+DOMAIN-SUFFIX,xhpjc6-cdn-settings.appsflyersdk.com
+DOMAIN-SUFFIX,rp-static-apne1.s3.ap-northeast-1.amazonaws.com
+
+# Test rules
+DOMAIN-SUFFIX,myip.ru
