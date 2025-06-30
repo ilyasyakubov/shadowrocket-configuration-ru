@@ -1,0 +1,8 @@
+# NAME: Grok ruleset
+# AUTHOR: Ilyas Yakubov
+# REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
+# UPDATE: 2025-06-30 11:42:00
+
+# Grok
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
