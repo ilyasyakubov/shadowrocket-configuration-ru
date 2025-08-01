@@ -1,7 +1,7 @@
 # NAME: Inside ruleset
 # AUTHOR: Ilyas Yakubov
 # REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
-# UPDATE: 2025-07-20 11:12:00
+# UPDATE: 2025-08-01 19:39:00
 
 # Other rules
 DOMAIN-SUFFIX,4pda.ru
@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,ishosting.com
 DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,meduza.io
 DOMAIN-SUFFIX,qwintry.com
+DOMAIN-SUFFIX,ucpay.com
 DOMAIN-SUFFIX,wp.com
 
 # Torrent trackers
