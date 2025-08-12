@@ -1,0 +1,9 @@
+# NAME: Canva ruleset
+# AUTHOR: Ilyas Yakubov
+# REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
+# UPDATE: 2025-08-12 19:41:00
+
+# Redotpay
+DOMAIN-SUFFIX,canva.com
+DOMAIN-SUFFIX,canva.site
+DOMAIN-SUFFIX,canvastatus.com
