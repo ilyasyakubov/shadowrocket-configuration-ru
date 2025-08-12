@@ -1,10 +1,11 @@
 # NAME: Outside ruleset
 # AUTHOR: Ilyas Yakubov
 # REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
-# UPDATE: 2025-07-20 23:09:00
+# UPDATE: 2025-08-12 14:33:00
 
 # Other rules
 DOMAIN-SUFFIX,blenderkit.com
+DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,emojis.com
 DOMAIN-SUFFIX,fcp.cafe
