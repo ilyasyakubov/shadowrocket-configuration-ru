@@ -1,7 +1,7 @@
 # NAME: Inside ruleset
 # AUTHOR: Ilyas Yakubov
 # REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
-# UPDATE: 2025-12-15 13:19:00
+# UPDATE: 2025-12-15 13:47:00
 
 # Other rules
 DOMAIN-SUFFIX,4pda.ru
@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,happ.su
 DOMAIN-SUFFIX,ishosting.com
 DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,meduza.io
+DOMAIN-SUFFIX,pushbr.com
 DOMAIN-SUFFIX,qwintry.com
 DOMAIN-SUFFIX,ucpay.com
 DOMAIN-SUFFIX,unsplash.com
