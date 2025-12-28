@@ -1,7 +1,7 @@
 # NAME: Outside ruleset
 # AUTHOR: Ilyas Yakubov
 # REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
-# UPDATE: 2025-12-26 19:36:00
+# UPDATE: 2025-12-28 21:45:00
 
 # Other rules
 DOMAIN-SUFFIX,artlist.io
@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,rive.app
 DOMAIN-SUFFIX,serif.com
 DOMAIN-SUFFIX,tuxera.com
 DOMAIN-SUFFIX,upwork.com
+DOMAIN-SUFFIX,vdsina.com
 
 # Test rules
 DOMAIN-SUFFIX,curlmyip.net
