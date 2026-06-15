@@ -1,23 +1,39 @@
-# NAME: Inside ruleset
+# NAME: Other ruleset
 # AUTHOR: Ilyas Yakubov
 # REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
-# UPDATE: 2026-01-12 10:38:00
+# UPDATE: 2026-06-15 14:02:00
 
 # Other rules
 DOMAIN-SUFFIX,4pda.ru
+DOMAIN-SUFFIX,artlist.io
+DOMAIN-SUFFIX,blenderkit.com
 DOMAIN-SUFFIX,cobalt.tools
+DOMAIN-SUFFIX,deepl.com
+DOMAIN-SUFFIX,emojis.com
+DOMAIN-SUFFIX,fcp.cafe
 DOMAIN-SUFFIX,giphy.com
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,greenapi.org
+DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,happ.su
-DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,hostinger.com
 DOMAIN-SUFFIX,ishosting.com
+DOMAIN-SUFFIX,kayenworks.com
 DOMAIN-SUFFIX,kino.pub
+DOMAIN-SUFFIX,kmail-lists.com
+DOMAIN-SUFFIX,mcpeaddons.com
 DOMAIN-SUFFIX,meduza.io
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,motionvfx.com
+DOMAIN-SUFFIX,paddle.com
 DOMAIN-SUFFIX,pushbr.com
 DOMAIN-SUFFIX,qwintry.com
-DOMAIN-SUFFIX,ucpay.com
+DOMAIN-SUFFIX,rive.app
+DOMAIN-SUFFIX,serif.com
+DOMAIN-SUFFIX,tuxera.com
 DOMAIN-SUFFIX,unsplash.com
+DOMAIN-SUFFIX,upwork.com
+DOMAIN-SUFFIX,vdsina.com
 DOMAIN-SUFFIX,wp.com
 
 # Torrent trackers
