@@ -1,13 +1,19 @@
 # NAME: Other ruleset
 # AUTHOR: Ilyas Yakubov
 # REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
-# UPDATE: 2026-06-26 20:37:00
+# UPDATE: 2026-06-28 17:26:00
 
 # Other rules
 DOMAIN-SUFFIX,4pda.ru
+DOMAIN-SUFFIX,appagg.com
 DOMAIN-SUFFIX,artlist.io
+DOMAIN-SUFFIX,bankandfintech.telegram.fm
 DOMAIN-SUFFIX,blenderkit.com
+DOMAIN-SUFFIX,cloudinary.com
+DOMAIN-SUFFIX,cloudinary.net
+DOMAIN-SUFFIX,ctfassets.net
 DOMAIN-SUFFIX,cobalt.tools
+DOMAIN-SUFFIX,daisydiskapp.com
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,emojis.com
 DOMAIN-SUFFIX,fcp.cafe
@@ -17,20 +23,23 @@ DOMAIN-SUFFIX,greenapi.org
 DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,happ.su
 DOMAIN-SUFFIX,hostinger.com
+DOMAIN-SUFFIX,incy.cc
 DOMAIN-SUFFIX,ishosting.com
 DOMAIN-SUFFIX,ishosting.io
 DOMAIN-SUFFIX,kayenworks.com
-DOMAIN-SUFFIX,kino.pub
 DOMAIN-SUFFIX,kmail-lists.com
 DOMAIN-SUFFIX,mcpeaddons.com
 DOMAIN-SUFFIX,meduza.io
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,motionvfx.com
 DOMAIN-SUFFIX,paddle.com
+DOMAIN-SUFFIX,pexels.com
 DOMAIN-SUFFIX,pushbr.com
 DOMAIN-SUFFIX,qwintry.com
 DOMAIN-SUFFIX,rive.app
 DOMAIN-SUFFIX,serif.com
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,thenationalnews.com
 DOMAIN-SUFFIX,tuxera.com
 DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,upwork.com
