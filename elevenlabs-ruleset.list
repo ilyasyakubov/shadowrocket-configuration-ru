@@ -1,0 +1,8 @@
+# NAME: Elevenlabs ruleset
+# AUTHOR: Ilyas Yakubov
+# REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
+# UPDATE: 2026-06-28 17:20:00
+
+# Elevenlabs
+DOMAIN-SUFFIX,elevenlabs.com
+DOMAIN-SUFFIX,elevenlabs.io
