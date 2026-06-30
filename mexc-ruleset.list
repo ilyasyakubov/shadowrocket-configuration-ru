@@ -1,0 +1,17 @@
+# NAME: MEXC ruleset
+# AUTHOR: Ilyas Yakubov
+# REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
+# UPDATE: 2026-06-30 21:46:00
+
+# MEXC
+DOMAIN-SUFFIX,mexc.com
+DOMAIN-SUFFIX,mexc.link
+DOMAIN-SUFFIX,mexc.app
+DOMAIN-SUFFIX,mexc.live
+DOMAIN-SUFFIX,mexc.zone
+DOMAIN-SUFFIX,mxc.com
+DOMAIN-SUFFIX,mxc.ai
+DOMAIN-SUFFIX,mexc-api.com
+DOMAIN-SUFFIX,mexcapi.com
+DOMAIN-SUFFIX,mexccdn.com
+DOMAIN-SUFFIX,mxcapi.com
