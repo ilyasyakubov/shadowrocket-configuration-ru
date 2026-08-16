@@ -1,7 +1,7 @@
 # NAME: Other ruleset
 # AUTHOR: Ilyas Yakubov
 # REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
-# UPDATE: 2026-07-28 15:29:00
+# UPDATE: 2026-08-16 20:58:00
 
 # Other rules
 DOMAIN-SUFFIX,4pda.ru
@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,emojis.com
 DOMAIN-SUFFIX,fcp.cafe
 DOMAIN-SUFFIX,giphy.com
 DOMAIN-SUFFIX,gov.ae
+DOMAIN-SUFFIX,grand.gs
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,greenapi.org
 DOMAIN-SUFFIX,gsmarena.com
