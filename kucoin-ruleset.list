@@ -1,0 +1,19 @@
+# NAME: KuCoin ruleset
+# AUTHOR: Ilyas Yakubov
+# REPO: https://github.com/ilyasyakubov/shadowrocket-configuration-ru
+# UPDATE: 2026-10-20 20:03:00
+
+# KuCoin
+DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,kucoin.net
+DOMAIN-SUFFIX,kucoin.cc
+DOMAIN-SUFFIX,kucoin.plus
+DOMAIN-SUFFIX,kumex.com
+DOMAIN-SUFFIX,staticimg.com
+DOMAIN-SUFFIX,kucoin.cloud
+DOMAIN-SUFFIX,kcc.io
+DOMAIN-SUFFIX,kcc.network
+DOMAIN-SUFFIX,kcs.top
+DOMAIN-SUFFIX,geetest.com
+DOMAIN-SUFFIX,geevisit.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
